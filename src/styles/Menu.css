@@ -1,0 +1,35 @@
+.menu-flex{
+  display: flex;
+  position: relative;
+}
+
+h1{
+  padding: 24px;
+}
+
+.card-title{
+  margin-bottom: 0;
+}
+
+.card-text{
+  text-align: left;
+  margin-top: 14px;
+  margin-bottom: 0;
+}
+
+.button-menu{
+  margin-top: 34px;
+  margin-left: 0;
+  margin-bottom: 0;
+}
+
+img { 
+  max-width: 216px;
+  max-height: 216px;
+  object-fit: cover;
+}
+
+.menu-search{
+  padding-top: 24px;
+  padding-bottom: 24px;
+}

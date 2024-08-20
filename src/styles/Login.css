@@ -1,0 +1,45 @@
+.login-container{
+  margin: auto;
+  width: 40%;
+}
+
+.form-control{
+  height: 64px;
+  font-size: 24px;
+  margin: 0;
+}
+
+.login-form{
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.button{
+  max-width: 160px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 32px;
+  padding-right: 32px;
+  font-size: 24px;
+  border-radius: 32px;
+  background-color: #5FD155;
+  border: none;
+  color: white;
+  cursor: pointer;
+  text-align: center;
+  align-items: center;
+  margin: auto;
+}
+
+h1{
+  font-size: 64px;
+  margin: 22px;
+  text-align: center;
+}
+
+.login-to-register{
+  text-align: center;
+  font-size: 24px;
+  margin: 24px;
+}

@@ -1,0 +1,29 @@
+.landing-page{
+  background-color: bisque;
+  padding-top: 128px;
+  padding-bottom: 124px;
+  padding-left: 72px;
+  padding-right: 72px;
+}
+
+.landing-page > h1{
+  text-align: center;
+  font-size: 124px;
+}
+.landing-page > p{
+  text-align: center;
+  font-size: 64px;
+}
+
+@media (max-width:640px) {
+  .landing-page{
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+  .landing-page > h1{
+    font-size: 82px;
+  }
+  .landing-page > p{
+    font-size: 42px;
+  }
+}
